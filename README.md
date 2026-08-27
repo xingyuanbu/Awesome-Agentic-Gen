@@ -41,7 +41,11 @@ If you know of a paper that should be included, feel free to **open an issue or 
 
 | Title | Paper Link | Venue |
 |---|---|---|
+| aDSL: Agentic 3D Creation via Joint Agent-Program Design | [arXiv:2608.17975](https://arxiv.org/abs/2608.17975) | — |
+| SAGE: Self-Evolving Storyboard Skills via Attribution-Guided Rule Evolution | [arXiv:2608.17468](https://arxiv.org/abs/2608.17468) | — |
 | GenRouter: Unified Workflow Routing for Agentic Image Generation | [arXiv:2608.16721](https://arxiv.org/abs/2608.16721) | — |
+| MLLM-Guided Semantic Correction for Text-to-Video Generation | [arXiv:2608.16513](https://arxiv.org/abs/2608.16513) | — |
+| VLM- and LLM-Driven Multi-Agent System for PET Image Denoising | [arXiv:2608.13791](https://arxiv.org/abs/2608.13791) | — |
 | AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design | [arXiv:2608.13560](https://arxiv.org/abs/2608.13560) | — |
 | StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization | [arXiv:2608.12314](https://arxiv.org/abs/2608.12314) | — |
 | Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence | [arXiv:2608.12290](https://arxiv.org/abs/2608.12290) | — |
