@@ -41,6 +41,20 @@ If you know of a paper that should be included, feel free to **open an issue or 
 
 | Title | Paper Link | Venue |
 |---|---|---|
+| FocusGen: Expanding Visual Design Exploration with a Simulated Focus Group of Persona Agents | [arXiv:2608.28001](https://arxiv.org/abs/2608.28001) | — |
+| LandingAgent: A Reference-Annotated Dataset and Agentic Generation Framework for Landing Pages | [arXiv:2608.27902](https://arxiv.org/abs/2608.27902) | — |
+| TransMeme: A Multi-Agent Framework for Cross-Cultural Meme Transcreation | [arXiv:2608.27127](https://arxiv.org/abs/2608.27127) | ACM MM 2026 |
+| Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning | [arXiv:2608.26809](https://arxiv.org/abs/2608.26809) | — |
+| Procedura: Agentic 3D Modeling with Procedural Control | [arXiv:2608.26238](https://arxiv.org/abs/2608.26238) | — |
+| Plans You Can Check: Verifier-Grounded Learning of an Open-Weight Planner for Executable Video-Editing | [arXiv:2608.25622](https://arxiv.org/abs/2608.25622) | EMNLP 2026 |
+| ViSculpt: Visual-Centric Agentic Geometry Editing | [arXiv:2608.24169](https://arxiv.org/abs/2608.24169) | — |
+| Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation | [arXiv:2608.24138](https://arxiv.org/abs/2608.24138) | — |
+| ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation | [arXiv:2608.24103](https://arxiv.org/abs/2608.24103) | EMNLP 2026 Industry Track |
+| BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation | [arXiv:2608.22187](https://arxiv.org/abs/2608.22187) | — |
+| Closed-loop AI achieves certifiable engineering design | [arXiv:2608.21976](https://arxiv.org/abs/2608.21976) | — |
+| Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair | [arXiv:2608.20749](https://arxiv.org/abs/2608.20749) | — |
+| ArtiMo: Agent-Driven Articulated Mesh Animation | [arXiv:2608.20699](https://arxiv.org/abs/2608.20699) | — |
+| VortexChat: An agentic framework for autonomous multi-objective integrated photonic design | [arXiv:2608.20688](https://arxiv.org/abs/2608.20688) | — |
 | aDSL: Agentic 3D Creation via Joint Agent-Program Design | [arXiv:2608.17975](https://arxiv.org/abs/2608.17975) | — |
 | SAGE: Self-Evolving Storyboard Skills via Attribution-Guided Rule Evolution | [arXiv:2608.17468](https://arxiv.org/abs/2608.17468) | — |
 | GenRouter: Unified Workflow Routing for Agentic Image Generation | [arXiv:2608.16721](https://arxiv.org/abs/2608.16721) | — |
@@ -93,7 +107,7 @@ If you know of a paper that should be included, feel free to **open an issue or 
 | CinemaTraj: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents | [arXiv](https://arxiv.org/abs/2607.26910) | — |
 | PlanCraft: Sketch, Refine, and Furnish for Architect-Inspired Progressive 3D Residential Scene Generation | [arXiv](https://arxiv.org/abs/2607.23491) | — |
 | AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment | [arXiv](https://arxiv.org/abs/2607.22241) | — |
-| Agentic Designer: Progressive Multi-Agent Collaboration for Structure-Aware Interior Layout Generation | [arXiv](https://arxiv.org/abs/2607.20866) | — |
+| Agentic Designer: Progressive Multi-Agent Collaboration for Structure-Aware Interior Layout Generation | [arXiv](https://arxiv.org/abs/2607.20866) | TPAMI 2026 |
 | PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation | [arXiv](https://arxiv.org/abs/2607.16355) | — |
 | Clarify Before Executing: A Self-Evolving Agent for Resolving Intent Asymmetry in 3D Tool Orchestration | [arXiv](https://arxiv.org/abs/2607.16352) | ACM MM 2026 |
 | Boogu-Image-0.1: Boosting Open Agentic Multimodal Generation via Understanding under a Minimal Budget | [arXiv](https://arxiv.org/abs/2607.13125) | — |
@@ -115,7 +129,7 @@ If you know of a paper that should be included, feel free to **open an issue or 
 | VideoAgent: All-in-One Framework for Video Understanding and Editing | [arXiv](https://arxiv.org/abs/2606.23327) | — |
 | RS-Gen: A Multi-Stage Agentic Framework for Reasoning and Search-Augmented Image Generation | [arXiv](https://arxiv.org/abs/2606.23221) | — |
 | Taming I2V Models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework (SCPE) | [arXiv](https://arxiv.org/abs/2606.19073) | — |
-| Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops (CHIEF) | [arXiv](https://arxiv.org/abs/2606.18591) | — |
+| Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops | [arXiv](https://arxiv.org/abs/2606.18591) | ICML 2026 Workshop (Human-AI Co-Creativity) |
 | SceneCraft: Interactive System for Image Editing via Scene Graph | [arXiv](https://arxiv.org/abs/2606.16103) | — |
 | MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction | [arXiv](https://arxiv.org/abs/2606.14168) | — |
 | InterleaveThinker: Reinforcing Agentic Interleaved Generation | [arXiv](https://arxiv.org/abs/2606.13679) | — |
@@ -249,7 +263,7 @@ If you know of a paper that should be included, feel free to **open an issue or 
 | PaperX: A Unified Framework for Multimodal Academic Presentation Generation with Scholar DAG | [arXiv](https://arxiv.org/abs/2602.03866) | — |
 | SIDiffAgent: Self-Improving Diffusion Agent | [arXiv](https://arxiv.org/abs/2602.02051) | — |
 | Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation | [arXiv](https://arxiv.org/abs/2602.01756) | — |
-| Vinedresser3D: Towards Agentic Text-guided 3D Editing | [arXiv](https://arxiv.org/abs/2602.19542) | CVPR 2026 |
+| Vinedresser3D: Agentic Text-guided 3D Editing | [arXiv](https://arxiv.org/abs/2602.19542) | CVPR 2026 |
 | RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward | [arXiv](https://arxiv.org/abs/2602.17558) | — |
 | PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement | [arXiv](https://arxiv.org/abs/2602.14968) | ICLR 2026 |
 | Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation | [arXiv](https://arxiv.org/abs/2602.11790) | KDD 2026 |
