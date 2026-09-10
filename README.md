@@ -41,6 +41,7 @@ If you know of a paper that should be included, feel free to **open an issue or 
 
 | Title | Paper Link | Venue |
 |---|---|---|
+| AgenticGen: Reward-Guided Agentic Video Generation for Advertising | [arXiv:2609.09187](https://arxiv.org/abs/2609.09187) | — |
 | FocusGen: Expanding Visual Design Exploration with a Simulated Focus Group of Persona Agents | [arXiv:2608.28001](https://arxiv.org/abs/2608.28001) | — |
 | LandingAgent: A Reference-Annotated Dataset and Agentic Generation Framework for Landing Pages | [arXiv:2608.27902](https://arxiv.org/abs/2608.27902) | — |
 | TransMeme: A Multi-Agent Framework for Cross-Cultural Meme Transcreation | [arXiv:2608.27127](https://arxiv.org/abs/2608.27127) | ACM MM 2026 |
